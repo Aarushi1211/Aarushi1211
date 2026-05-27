@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Aarushi Chavan
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Biomedical+Engineering+Student;Embedded+Systems+Enthusiast;IoT+%26+Healthcare+Technology;AI%2FML+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Biomedical+Engineering+Student;Embedded+Systems+Enthusiast;IoT+%26+Healthcare+Technology&center=true&width=500&height=45">
 </p>
 
 ---
@@ -87,8 +87,6 @@ I have experience in **STM32, Arduino, Python, MATLAB, GUI development, sensor i
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aarushi-r-chavan/)
 - 💻 [GitHub](https://github.com/Aarushi1211)
-- 📧 [Email](mailto:yourmail@example.com)
-
 ---
 
 ⭐ *“Passionate about combining Healthcare and Technology to create impactful solutions.”*
