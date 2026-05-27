@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Biomedical+Engineering+Student;Embedded+Systems+Enthusiast;IoT+%26+Healthcare+Technology;AI%2FML+Learner&center=true&width=500&height=45">
 </p>
 
-<p align="center">
-  Visitor Counter<br>
-  <img src="https://profile-counter.glitch.me/Aarushi1211/count.svg" />
-</p>
-
 ---
 
 ## 🌟 About Me
