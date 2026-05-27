@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Hi there 👋 I'm Aarushi Chavan
 
 <p align="center">
@@ -100,4 +97,3 @@ I have experience in **STM32, Arduino, Python, MATLAB, GUI development, sensor i
 ---
 
 ⭐ *“Passionate about combining Healthcare and Technology to create impactful solutions.”*
--->
